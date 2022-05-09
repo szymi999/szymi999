@@ -9,7 +9,7 @@ In my spare time I am trying to improve myself in topics related to programming 
 
 <hr>
 
-### Skills: 
+###  Programming stack: 
 - Python
 - Tensorflow, Scikit-learn
 - Numpy, Pandas, Matplotlib, Seaborn

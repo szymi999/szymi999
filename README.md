@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, my name is Szymon.
+###### I am a student majoring in artificial intelligence (master studies).
+</br>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+</br>
+</br>
+💬 If you have any questions or job offer please send me an email: szymonter999@gmail.com
 
-<!--
-**szymi999/szymi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### Skills: 
+- Python
+- Tensorflow, Scikit-learn
+- Numpy, Pandas, Matplotlib, Seaborn
+- Django
+- SQL
+- HTML/CSS
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>

@@ -19,3 +19,10 @@ In my spare time I am trying to improve myself in topics related to programming 
 - C++
 
 <hr>
+
+
+🔭 I’m currently working on
+
+<hr>
+
+🌱 I’m currently learning

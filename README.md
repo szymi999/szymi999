@@ -19,9 +19,6 @@ In my spare time I am trying to improve myself in topics related to programming 
 
 <hr>
 
+🌱 Currently learning
 
-🔭 I’m currently working on
-
-<hr>
-
-🌱 I’m currently learning
+Currently I am learning SQL and I am developing in machine learning.
